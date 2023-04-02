@@ -1,0 +1,6 @@
+.vscode
+dist
+node_modules
+src/migrations
+src/rendering/protos/gen.proto
+src/rendering/protos/gen.client.ts
